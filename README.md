@@ -9,7 +9,7 @@ Unser Repository behandelt Themen rund um Geld und Finanzen, darunter finanziell
 Mitwirken
 Wir freuen uns über Beiträge aus der Community! Bei Fragen oder Anregungen können Sie uns per E-Mail erreichen.
 
-Kontakt
+Kontakt: 
 •geldgeister@gmail.com
 Danke für Ihren Besuch auf unserem GitHub-Account!
 
