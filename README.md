@@ -12,4 +12,4 @@ Wir freuen uns über Beiträge aus der Community! Bei Fragen oder Anregungen kö
 ### Kontakt: 
 •geldgeister@gmail.com
 Danke für Ihren Besuch auf unserem GitHub-Account!
-#![](no.bg.black.png)
+![](no.bg.black.png)
